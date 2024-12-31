@@ -1,4 +1,4 @@
-Hi there! 👋🏾
+Hey there! 👋🏾
 I'm a college student based in New York City with a passion for software engineering and community service. I’m actively seeking software engineering roles where I can leverage my skills to create impactful solutions. When I'm not coding, you'll find me participating in local initiatives, driven by my love for making a positive impact in my community.
 
 Combining my technical skills with a dedication to service, I aim to create solutions that not only work but also benefit those around me.
